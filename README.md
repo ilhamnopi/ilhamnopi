@@ -13,11 +13,11 @@ I'm a Frontend Web Developer 💻, Web Designer 🎨!
 My interests are in Front End Engineering, and I love to create beautiful and performant products with delightful user experiences.
 
 ### 🤝 Connect with me:
+ <a href="https://www.instagram.com/ilhamnopihendri/"><img align="left" src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Yu Shi | Instagram" width="25px"/></a>
+ 
+<a href="https://www.linkedin.com/in/ilham-nopi-hendri-aa28b1213/"><img align="left" src="https://img.icons8.com/fluency/344/linkedin-circled.png" alt="Yu Shi | Instagram" width="25px"/></a>
 
-<a href="https://www.linkedin.com/in/ilham-nopi-hendri-aa28b1213/"><img align="left" src="https://raw.githubusercontent.com/
-hi1007/yushi1007/main/images/linkedin.svg" alt="Ilham Nopi Hendri | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/ilhamnopihendri/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
+</br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
