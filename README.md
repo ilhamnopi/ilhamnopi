@@ -3,7 +3,7 @@
 </p> -->
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Ilham</a> 👋
+Hi there, I'm <a href="https://www.instagram.com/ilhamnopihendri/" target="_blank" rel="noreferrer">Ilham</a> 👋
 </h3>
 
 <h2 align="center">
@@ -14,7 +14,8 @@ My interests are in Front End Engineering, and I love to create beautiful and pe
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/ilham-nopi-hendri-aa28b1213/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ilham Nopi Hendri | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ilham-nopi-hendri-aa28b1213/"><img align="left" src="https://raw.githubusercontent.com/
+hi1007/yushi1007/main/images/linkedin.svg" alt="Ilham Nopi Hendri | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/ilhamnopihendri/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 </br>
