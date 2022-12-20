@@ -24,7 +24,6 @@ My interests are in Front End Engineering, and I love to create beautiful and pe
 ## 🌱 I'm currently learning
 
 - React Js
-- Go
 
 ## 💼 Technical Skills
 
